@@ -1,0 +1,28 @@
+# --- Secrets ---
+# Ignore the environment file containing the API key!
+backend/.env
+
+# --- Python ---
+# Ignore the virtual environment folder
+backend/venv/
+# Ignore Python bytecode files
+backend/__pycache__/
+backend/**/*.pyc
+
+# --- Flutter ---
+# Ignore build artifacts and generated files
+frontend/build/
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+
+# --- IDE Files ---
+# Ignore IDE-specific configuration files
+.vscode/
+.idea/
+
+
+---
+
+### **Phase 4: Upload Everything to GitHub**
+
