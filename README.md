@@ -11,9 +11,7 @@ Krishi Mitra is a prototype of a multimodal, AI-powered support system designed 
 
     Premium User Experience: A beautiful, high-performance Flutter app with a clean, minimalist UI and smooth, satisfying animations.
 
-🚀 Live Demo
 
-(Recommendation: Create a short screen recording of your app in action and upload it as a GIF. It's the best way to showcase your work! You can use free tools like ScreenToGif or Kap.)
 🛠️ Technology Stack
 
     Frontend: Flutter & Dart
